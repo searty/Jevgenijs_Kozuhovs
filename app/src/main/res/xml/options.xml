@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:title="@string/voicemail"
+        android:summary="This preference allows to select colour of the list"
+        android:key="listPref"
+        android:defaultValue="digiGreen"
+        android:entries="@array/listArray"
+        android:entryValues="@array/listValues"
+        />
+</PreferenceScreen>

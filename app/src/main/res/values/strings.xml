@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Useless todo app</string>
+    <string name="hello"> ADD </string>
+    <string name="set_preferences" />
+    <string name="share" />
+    <string name="voicemail">Change colour</string>
+</resources>
